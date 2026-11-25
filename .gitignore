@@ -16,3 +16,6 @@ companion.local.json
 *.token
 *.db
 *.sqlite3
+
+# understand-anything generated knowledge graph
+.ua/
